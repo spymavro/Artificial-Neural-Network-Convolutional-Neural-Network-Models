@@ -9,7 +9,7 @@ The motivation behind this project is to demonstrate the effectiveness of neural
 ## Dataset
 The MNIST dataset, a large database of handwritten digits, is used for training and testing the models. It includes:
 
-- **60,000 training examples** from the [Greek Language Center's website](https://www.greek-language.gr/certification/dbs/teachers/index.html) (CEFR levels A1 to C2). These texts are categorized by proficiency levels and can be accessed publicly.
+- **60,000 training examples**
 - **10,000 testing examples**: Each image is size-normalized and centered in a fixed-size (28x28 pixels) frame.
 
 **Note**: More information about the dataset can be found [here](https://www.tensorflow.org/datasets/catalog/mnist).
